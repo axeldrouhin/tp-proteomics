@@ -447,10 +447,13 @@ Combien d'interactions sont supportées par chaque source ('Textmining', 'Experi
 
 Hint: l'onglet Analysis, donne accès aux nombre des interactions du réseau.
 ```
-
-
-
-
+29
+8
+4
+9
+1
+0
+7
 ```
 
 #### Analyse du réseau des protéines sur-exprimées dans le contexte du réseau global.
